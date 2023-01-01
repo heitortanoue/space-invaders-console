@@ -3,7 +3,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/totoi690/oop-class?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/totoi690/space-invaders-console?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <img src="https://sm.ign.com/t/ign_pt/news/s/space-inva/space-invaders-movie-reportedly-hires-mortal-kombat-reboot-w_187h.h720.jpg" alt="Space Invaders" width="600"/>
